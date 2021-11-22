@@ -1,0 +1,6 @@
+*.pyc
+output/
+.~lock*
+test.py
+traces.txt
+clean_trace.py

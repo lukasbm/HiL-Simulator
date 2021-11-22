@@ -30,3 +30,30 @@
 *.exe
 *.out
 *.app
+
+# ide files
+.idea
+.vscode
+
+# compilation artifacts
+out/
+/.computed/
+*.so
+
+# result artifacts
+results/
+
+# logfiles
+.cmdenv-log
+
+# temp files
+*.tmp
+*.swp
+
+# omnetfiles
+.qtenvrc
+/src/Makefile
+
+# message files
+*_m.h
+*_m.cc
